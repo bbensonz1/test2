@@ -11,7 +11,7 @@
 
 ## Demo
 <div align="center">
-  <img src="https://i.imgur.com/7552oLf.png" width=800px/>
+  <img src="https://i.imgur.com/A2212xn.png" width=800px/>
 </div>
 
 ## Using locally
