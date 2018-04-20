@@ -6,5 +6,5 @@
 
 ## Features
 * :hammer: Developed, using AngularJS (1.x) framework and routed by <a href="https://github.com/angular-ui/ui-router" >ui-router</a>
-* :chart_with_upwards_trend: Real-time data, obtained from a public cryptocurrency API <a href="https://openweathermap.org" >CoinMarketCap</a>
+* :chart_with_upwards_trend: Real-time data, obtained from a public weather forecast API <a href="https://openweathermap.org" >OpenWeatherMap</a>
 * :computer: 'Deployed' using GitHub Pages
