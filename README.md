@@ -17,4 +17,4 @@
 ## Using locally
 * Clone/download the repo
 * Launch a local server such as XAMPP, and configure it
-* Navigate to localhost/cryptobase/#!/ in your browser
+* Navigate to localhost/weather-forecast/#!/ in your browser
