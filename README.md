@@ -7,4 +7,5 @@
 ## Features
 * :hammer: Developed, using AngularJS (1.x) framework and routed by <a href="https://github.com/angular-ui/ui-router" >ui-router</a>
 * :chart_with_upwards_trend: Real-time data, obtained from a public weather forecast API <a href="https://openweathermap.org" >OpenWeatherMap</a>
+* :zap: Search bar, enchanted with <a href="https://developers.google.com/places/web-service/autocomplete" >Google Place Autocomplete</a>  web service 
 * :computer: 'Deployed' using GitHub Pages
